@@ -1,0 +1,15 @@
+La PC en la cual coloque este conversor debe tener instalado access. Asimismo y para facilitar todo el proceso es conveniente que también tenga ingreso a OEP así puede realizar todo el proceso completo desde un solo lugar sin necesidad de estar moviendo el archivo de inclusión a otra PC
+
+PARA REALIZAR POR UNICA VEZ:
+
+1) Cree en el disco C la carpeta "aa". c:\aa\
+2) Cree dentro de la carpeta "aa" la carpeta "soft". c:\aa\soft\
+
+ANTES DE COMENZAR EL PROCESO DE CONVERSIÓN:
+
+3) El archivo se tiene que llamar "jerarquico.xls" o "jerarquico.xlsx".
+4) El campo "Nro. cuenta Cliente" hay que cambiarlo por "Nrocuenta Cliente", caso contrario dará error
+y no lo podrá ingresar
+5) El archivo se debe colocar en la carpeta c:\aa\
+6) El archivo de salida para ingresar en OEP, quedará en la misma carpeta. Tendrá por nombre: JERARQUICO+DD-MM-AAAA hh-mm-ss.txt
+7) Luego de realizar el proceso, el archivo excel que envió el cliente se borrará automáticamente de la carpeta y de ser necesario realizarlo nuevamente tendrá que comenzar desde cero.
